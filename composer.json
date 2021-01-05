@@ -1,11 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "fourwaychess/web-skeleton",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": [
-        "framework",
-        "laravel"
-    ],
+    "description": "Play Four Way Chess thats a 100% free.",
+    "keywords": [],
     "license": "MIT",
     "require": {
         "php": "^7.3|^8.0",
